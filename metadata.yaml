@@ -1,0 +1,34 @@
+_repo: The-Young-Continentals-at-Lexington_67004
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boyer, Ralph L. (Ralph Ludwig)
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '34848'
+    url: http://www.gutenberg.org/2009/agents/34848
+creator:
+  author:
+    agent_name: McIntyre, John T. (John Thomas)
+    alias: McIntyre, John Thomas
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+    wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
+description: ''
+gutenberg_issued: '2021-12-24'
+identifiers:
+  gutenberg: '67004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Lexington, Battle of, Lexington, Mass., 1775 -- Juvenile fiction'
+- GITenberg
+title: The Young Continentals at Lexington
+url: http://www.gutenberg.org/ebooks/67004
